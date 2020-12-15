@@ -31,8 +31,7 @@
 # Packet
 * 네트워크를 통해 데이터를 전송하기 쉽도록 나눈 데이터의 전송단위
 * 패키지 + 버킷의 합성어
-* 우편에 보낸이, 받는이를 적는 것처럼
-* 발생한 데이터를 보내기 전에 Source IP, Destination IP 등을 기입해서 보낸다
+* 데이터를 보내기 전에 Source IP, Destination IP 등을 기입해서 보낸다
 
 # Unicast, Broadcast
 * Unicast
